@@ -2,7 +2,7 @@
 
 [![Website](https://github.com/574n13y/Terraform-Jenkins-CICD/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/574n13y/Terraform-Jenkins-CICD/actions/workflows/jekyll-gh-pages.yml)
 
-Terraform-Jenkins-CICD -> [you clone this repo from here](https://github.com/574n13y/Terraform-Jenkins-CICD.git)
+Terraform-Jenkins-CICD -> You can clone this repo from here [clone](https://github.com/574n13y/Terraform-Jenkins-CICD.git)
 
 ## Files - 
 - [Jenkinsfile](https://github.com/574n13y/Terraform-Jenkins-CICD/blob/main/Jenkinsfile)
