@@ -12,3 +12,6 @@ Terraform-Jenkins-CICD -> You can clone this repo from here [clone](https://gith
 - [s3.tf](https://github.com/574n13y/Terraform-Jenkins-CICD/blob/main/s3.tf)
 - [variables.tf](https://github.com/574n13y/Terraform-Jenkins-CICD/blob/main/variables.tf)
 - [website.sh](https://github.com/574n13y/Terraform-Jenkins-CICD/blob/main/website.sh)
+
+
+![1](https://github.com/574n13y/Terraform-Jenkins-CICD/assets/35293085/46ea2eab-a8ba-449a-8453-7228afa8a6eb)
