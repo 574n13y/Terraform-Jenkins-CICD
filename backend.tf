@@ -8,3 +8,4 @@ terraform {
       role_arn = "arn:aws:iam::PRODUCTION-ACCOUNT-ID:role/Terraform"
   }
 }
+}
